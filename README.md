@@ -26,7 +26,7 @@ This project demonstrates a simple Bluetooth communication setup between two ESP
 
 ```bash
 git clone https://github.com/MagicBulletPro/esp32-bluetooth-slave.git
-cd esp32-bluetooth-master-slave
+cd esp32-bluetooth-slave
 ```
 
 
