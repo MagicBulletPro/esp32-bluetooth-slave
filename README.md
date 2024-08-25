@@ -54,5 +54,5 @@ This command instructs the Slave device to set GPIO pin 2 to HIGH.
 Contributions are welcome! Please fork this repository and submit a pull request with your enhancements.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
